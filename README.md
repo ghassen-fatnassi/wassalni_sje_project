@@ -4,7 +4,7 @@ Welcome to Wassalni_SJE, your go-to carpooling website! We're a team of 4 passio
  
 ## 🛠️ Tech Stack
 
-- **Frontend**: HTML5, CSS3, JavaScript (Vue.js), Bootstrap
+- **Frontend**: HTML5, CSS3
 - **Backend**: PHP , MySQL
 - **Version Control**: Git, GitHub
 
